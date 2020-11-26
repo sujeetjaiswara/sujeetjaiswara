@@ -22,7 +22,7 @@
 <a href="https://dev.to/sujeetjaiswara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/sujeetjaiswara" height="30" width="40" /></a>
 <a href="https://twitter.com/sujeetjaiswara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sujeetjaiswara" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sujeetjaiswara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sujeetjaiswara" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sujeet-jaiswara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/1826469/sujeet-jaiswara" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/1826469/sujeet-jaiswara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/1826469/sujeet-jaiswara" height="30" width="40" /></a>
 <a href="https://fb.com/sujeetjaiswara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/sujeetjaiswara" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sujeetjaiswara/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/sujeetjaiswara/" height="30" width="40" /></a>
 </p>
