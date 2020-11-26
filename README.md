@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [anywhereapp.io](https://www.anywhereapp.io/)
 
-- 🌱 I’m currently learning **Vue3,Flutter**
+- 🌱 I’m currently learning **Vue3, Flutter**
 
 - 👨‍💻 All of my projects are available at [https://sujeetjaiswara.netlify.app/](https://sujeetjaiswara.netlify.app/)
 
