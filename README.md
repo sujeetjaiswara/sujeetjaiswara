@@ -1,5 +1,4 @@
-[![Sujeet Jaiswara StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1826469)](https://stackoverflow.com/users/1826469/sujeet-jaiswara)
-
+<!--[![Sujeet Jaiswara StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1826469)](https://stackoverflow.com/users/1826469/sujeet-jaiswara)-->
 ### A Fullstack Developer from Jabalpur, India. 
 [![Sujeet Jaiswara](https://img.shields.io/twitter/follow/sujeetjaiswara?style=social)](https://twitter.com/sujeetjaiswara)
 
