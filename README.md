@@ -11,7 +11,4 @@
 <!--![Sujeet github stats](https://github-readme-stats.vercel.app/api?username=sujeetjaiswara&show_icons=true&theme=radical)-->
 
 ### 🎧 Spotify Playing
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="itgoyo Spotify Playing" width="350" />](https://open.spotify.com/user/tj4dzhqxrtueqhi5761m4wiww)
-
-<!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tj4dzhqxrtueqhi5761m4wiww&cover_image=true)](https://open.spotify.com/user/tj4dzhqxrtueqhi5761m4wiww)-->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tj4dzhqxrtueqhi5761m4wiww&cover_image=false)](https://open.spotify.com/user/tj4dzhqxrtueqhi5761m4wiww)
