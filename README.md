@@ -1,6 +1,6 @@
 
  ### A Fullstack Developer from Jabalpur, India. 
-[![Sujeet Jaiswara](https://img.shields.io/twitter/follow/sujeetjaiswara?style=social)]()
+[![Sujeet Jaiswara](https://img.shields.io/twitter/follow/sujeetjaiswara?style=social)](https://twitter.com/sujeetjaiswara)
  
 - 🔭 I’m currently working on [anywhereapp.io](https://www.anywhereapp.io/)
 - 🌱 I’m currently learning **Vue3, Flutter**
