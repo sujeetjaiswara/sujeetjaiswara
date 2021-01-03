@@ -10,8 +10,8 @@
 
 <!--![Sujeet github stats](https://github-readme-stats.vercel.app/api?username=sujeetjaiswara&show_icons=true&theme=radical)-->
 
-### 🎧 Spotify Playing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tj4dzhqxrtueqhi5761m4wiww&cover_image=false)](https://open.spotify.com/user/tj4dzhqxrtueqhi5761m4wiww)
+<!--### 🎧 Spotify Playing
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tj4dzhqxrtueqhi5761m4wiww&cover_image=false)](https://open.spotify.com/user/tj4dzhqxrtueqhi5761m4wiww)-->
 
 ### Tech Stack
 <table>
