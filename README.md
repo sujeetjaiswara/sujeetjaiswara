@@ -22,4 +22,4 @@
 [![Sujeet Jaiswara](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujeetjaiswara)
 [![Sujeet Jaiswara](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/story/1826469)
 
-![Jokes Card](https://readme-jokes.vercel.app/api?borderColor=red&bgColor=white&qColor=red&aColor=green)
+![Jokes Card](https://readme-jokes.vercel.app/api?borderColor=gold&bgColor=white&qColor=red&aColor=green)
