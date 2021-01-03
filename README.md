@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sujeet Jaiswara</h1>
-<h3 align="center">Javascript Developer</h3>
+<h1>
+  A Fullstack Developer from Jabalpur, India.
+</h1>
+<h2>
+ 💻 Reach out to me on Twitter <a href="https://twitter.com/sujeetjaiswara" target="_blank">@sujeetjaiswara</a> if you'd like to talk
+</h2>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujeetjaiswara&label=Profile%20views&color=0e75b6&style=flat" alt="sujeetjaiswara" /> </p>
 
