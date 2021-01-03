@@ -1,9 +1,6 @@
-<h1>
-  A Fullstack Developer from Jabalpur, India.
-</h1>
-<h2>
- 💻 Reach out to me on Twitter <a href="https://twitter.com/sujeetjaiswara" target="new">@sujeetjaiswara</a> if you'd like to talk
-</h2>
+
+ ### Hey A Fullstack Developer from Jabalpur, India.
+ #### 💻 Reach out to me on Twitter <a href="https://twitter.com/sujeetjaiswara" target="new">@sujeetjaiswara</a> if you'd like to talk
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujeetjaiswara&label=Profile%20views&color=0e75b6&style=flat" alt="sujeetjaiswara" /> </p>
 
