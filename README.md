@@ -1,6 +1,5 @@
 <!--[![Sujeet Jaiswara StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1826469)](https://stackoverflow.com/users/1826469/sujeet-jaiswara)-->
 ### A Fullstack Developer from Jabalpur, India. 
-![](https://gitwar.herokuapp.com/badge?username=sujeetjaiswara&color=yellow)
 <!--[![Sujeet Jaiswara](https://img.shields.io/twitter/follow/sujeetjaiswara?style=social)](https://twitter.com/sujeetjaiswara)-->
 ***
 - 🔭 I’m currently working on [anywhereapp.io](https://www.anywhereapp.io)
