@@ -27,4 +27,4 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?borderColor=gold&bgColor=white&qColor=red&aColor=green)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=coding)](https://github.com/piyushsuthar/github-readme-quotes)
+<!--[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=coding)](https://github.com/piyushsuthar/github-readme-quotes)-->
