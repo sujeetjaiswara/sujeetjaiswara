@@ -1,4 +1,4 @@
-[![Sujeet Jaiswara](https://pbs.twimg.com/profile_banners/1616752980/1541843076/1500x500)](https://www.amazon.com/dp/B07KF7Z711)
+<!--[![Sujeet Jaiswara](https://pbs.twimg.com/profile_banners/1616752980/1541843076/1500x500)](https://www.amazon.com/dp/B07KF7Z711)-->
 ### A Fullstack Developer from Jabalpur, India. 
 
 ***
