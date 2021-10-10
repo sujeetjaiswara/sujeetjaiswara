@@ -1,6 +1,5 @@
 <!--[![Sujeet Jaiswara](https://pbs.twimg.com/profile_banners/1616752980/1541843076/1500x500)](https://www.amazon.com/dp/B07KF7Z711)-->
 ### ᴀ ꜰᴜʟʟꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ, ɪɴᴅɪᴀ.
-<a href="https://app.daily.dev/sujeetjaiswara"><img src="https://api.daily.dev/devcards/6451b48574d54bfea7de49ff427cc30d.png?r=sv7" width="400" alt="Sujeet Jaiswara's Dev Card"/></a>
 - ⌛ I’m currently working on [anywhereapp.io](https://www.anywhereapp.io)
 - 🎓 I’m currently learning **React**
 - 💻 All of my projects are available at [https://sujeetjaiswara.netlify.app](https://sujeetjaiswara.netlify.app)
@@ -27,3 +26,4 @@
 <!--[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=sujeetjaiswara&layout=wide&show_retweet=off&show_reply=off)](https://twitter.com/sujeetjaiswara)-->
 <!--![Jokes Card](https://readme-jokes.vercel.app/api?borderColor=gold&bgColor=white&qColor=red&aColor=green)-->
 <!--[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=coding)](https://github.com/piyushsuthar/github-readme-quotes)-->
+<a href="https://app.daily.dev/sujeetjaiswara"><img src="https://api.daily.dev/devcards/6451b48574d54bfea7de49ff427cc30d.png?r=sv7" width="250" alt="Sujeet Jaiswara's Dev Card"/></a>
