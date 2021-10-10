@@ -27,4 +27,4 @@
 <!--[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=sujeetjaiswara&layout=wide&show_retweet=off&show_reply=off)](https://twitter.com/sujeetjaiswara)-->
 <!--![Jokes Card](https://readme-jokes.vercel.app/api?borderColor=gold&bgColor=white&qColor=red&aColor=green)-->
 <!--[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=coding)](https://github.com/piyushsuthar/github-readme-quotes)-->
-<a href="https://app.daily.dev/sujeetjaiswara"><img src="https://api.daily.dev/devcards/6451b48574d54bfea7de49ff427cc30d.png?r=sv7" width="300" alt="Sujeet Jaiswara's Dev Card"/></a>
+<a href="https://app.daily.dev/sujeetjaiswara"><img src="https://github.com/sujeetjaiswara/sujeetjaiswara/blob/main/devcard.svg" width="300" alt="Sujeet Jaiswara's Dev Card"/></a>
