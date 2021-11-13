@@ -1,10 +1,10 @@
 <!--[![Sujeet Jaiswara](https://pbs.twimg.com/profile_banners/1616752980/1541843076/1500x500)](https://www.amazon.com/dp/B07KF7Z711)-->
 ### ᴀ ꜰᴜʟʟꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ, ɪɴᴅɪᴀ.
-- ⌛ I’m currently working on [anywhereapp.io](https://www.anywhereapp.io) project
-- 🎓 I’m currently learning **React**
+- 👨‍💻 I’m currently working on [anywhereapp.io](https://www.anywhereapp.io) project
+- 📚 I’m currently learning **React**
 - 💬 Ask me about **Javascript, Angular, Vue**
 - ✉️ How to reach me **sujeetjaiswara2012@gmail.com**
-- 🛠 Uses Core i5 Dell laptop , VSCode, Slack, Cmder command line.
+- 🛠 Uses Asus tuff (core i5, 16GB RAM) laptop, VSCode Editor, Slack for Calibration, Cmder command line, anywhereapp.io for project management.
 <!-- -💻 All of my projects are available at [https://sujeetjaiswara.netlify.app](https://sujeetjaiswara.netlify.app) -->
 ### ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> 
