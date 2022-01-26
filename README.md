@@ -5,7 +5,7 @@
 - 📚 I’m currently learning **Flutter**
 - 💬 Ask me about **Javascript, Angular, Vue**
 - ✉️ How to reach me **sujeetjaiswara2012@gmail.com**
-- 🛠 Uses Asus tuff (core i5, 16GB RAM, Windows 10 OS) laptop, VSCode Editor, Slack for Calibration, Cmder command line, anywhereapp.io for project management.
+- 🛠 Uses Asus tuff (core i5 processor, 8GB RAM, 512GB SSD, Windows 11 OS) laptop, VSCode Editor, Slack for Calibration, Cmder command line, anywhereapp.io for project management, Notion app for notes.
 <!-- -💻 All of my projects are available at [https://sujeetjaiswara.netlify.app](https://sujeetjaiswara.netlify.app) -->
 
 ### ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ
