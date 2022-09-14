@@ -1,11 +1,15 @@
 <!--[![Sujeet Jaiswara](https://pbs.twimg.com/profile_banners/1616752980/1541843076/1500x500)](https://www.amazon.com/dp/B07KF7Z711)-->
+
 ![Sujeet Jaiswara](https://github.com/sujeetjaiswara/sujeetjaiswara/blob/main/cover.png)
-### ᴀ ꜰᴜʟʟꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ, ɪɴᴅɪᴀ.
+
+### ᴀ ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ, ꜰʀᴏᴍ ɪɴᴅɪᴀ.
+![](https://komarev.com/ghpvc/?username=sujeetjaiswara&color=ffc107)
 - 👨‍💻 I’m currently working on [anywhereapp.io](https://www.anywhereapp.io) project
-- 📚 I’m currently learning **Flutter**
-- 💬 Ask me about **Javascript, Angular, Vue**
+- 📚 I’m currently learning **ASP.NET Core**
+- 💬 Ask me about **Javascript, Angular, Vue, Svelte**
 - ✉️ How to reach me **sujeetjaiswara2012@gmail.com**
-- 🛠 Uses Asus tuff (core i5 processor, 8GB RAM, 512GB SSD, Windows 11 OS) laptop, VSCode Editor, Slack for Calibration, Cmder command line, anywhereapp.io for project management, Notion app for notes.
+- 🛠 Uses Asus tuff gamming F15 laptop, VSCode Editor, Slack for Calibration, Window 11 OS and CLI, anywhereapp.io for project management, Notion app for notes.
+
 <!-- -💻 All of my projects are available at [https://sujeetjaiswara.netlify.app](https://sujeetjaiswara.netlify.app) -->
 
 ### ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ
