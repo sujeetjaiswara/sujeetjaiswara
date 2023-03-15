@@ -1,7 +1,7 @@
 <!--[![Sujeet Jaiswara](https://pbs.twimg.com/profile_banners/1616752980/1541843076/1500x500)](https://www.amazon.com/dp/B07KF7Z711)-->
 <!-- ![Sujeet Jaiswara](https://github.com/sujeetjaiswara/sujeetjaiswara/blob/main/cover.png) -->
 ### ᴀ ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ, ꜰʀᴏᴍ ɪɴᴅɪᴀ.
-![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/sujeetjaiswara)
+<!-- ![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/sujeetjaiswara) -->
 ![](https://komarev.com/ghpvc/?username=sujeetjaiswara&color=ffc107)
 - 👨‍💻 I’m currently working on [anywhereapp.io](https://www.anywhereapp.io) project
 - 📚 I’m currently learning **ASP.NET Core**
