@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=sujeetjaiswara&color=ffc107)
 - 👨‍💻 I’m currently working on [anywhereapp.io](https://www.anywhereapp.io) & [Oowlify](https://www.oowlify.com) project
 - 📚 I’m currently learning **ASP.NET Core**
-- 💬 Ask me about **Javascript, Angular, Vue, Svelte**
+- 💬 Ask me about **Javascript, Angular**
 - ✉️ How to reach me **sujeetjaiswara2012@gmail.com**
 - 🛠 Uses Asus tuff gamming F15 laptop, VSCode Editor, Slack for Calibration, Window 11 OS and CLI, anywhereapp.io for project management, Notion app for notes.
 
