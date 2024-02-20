@@ -50,4 +50,4 @@
 ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 
 <a href="https://app.daily.dev/sujeetjaiswara"><img src="https://github.com/sujeetjaiswara/sujeetjaiswara/blob/main/devcard.svg" width="300" alt="Sujeet Jaiswara's Dev Card"/></a>
-<a href="https://app.daily.dev/sujeetjaiswara"><img src="https://api.daily.dev/devcards/v2/d797ce869b9c4cdca98d82bd90f5715a.png?type=wide&r=qg0" width="652" alt="Sujeet Jaiswara's Dev Card"/></a>
+<a href="https://app.daily.dev/sujeetjaiswara"><img src="https://api.daily.dev/devcards/v2/d797ce869b9c4cdca98d82bd90f5715a.png?type=default&r=qg0" width="356" alt="Sujeet Jaiswara's Dev Card"/></a>
