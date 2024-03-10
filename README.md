@@ -1,10 +1,15 @@
-### ᴀ ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ, ꜰʀᴏᴍ ɪɴᴅɪᴀ.
-![](https://komarev.com/ghpvc/?username=sujeetjaiswara&color=ffc107)
-- 👨‍💻 I’m currently working on [anywhereapp.io](https://www.anywhereapp.io) & [Oowlify](https://www.oowlify.com) project
-- 📚 I’m currently learning **ASP.NET Core**
-- 💬 Ask me about **Javascript, Angular**
-- ✉️ How to reach me **sujeetjaiswara2012@gmail.com**
-- 🛠 Uses Asus tuff gamming F15 laptop, VSCode Editor, Slack for Calibration, Window 11 OS and CLI, anywhereapp.io for project management, Notion app for notes.
+Hi 👋 My name is Sujeet Jaiswara
+================================
+
+Frontend developer
+------------------
+
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [https://sujeetjaiswara.netlify.app](http://sujeetjaiswara.netlify.app)
+* ✉️  You can contact me at [sujeetjaiswara2012@gmal.com](mailto:sujeetjaiswara2012@gmal.com)
+* 🧠  I'm learning React
+* 🤝  I'm open to collaborating on Angular
+* 🛠   Uses Asus tuff gamming F15 laptop, VSCode editor, Slack for calibration, Window 11 OS, Notion app, ChatGPT
 
 ### ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
