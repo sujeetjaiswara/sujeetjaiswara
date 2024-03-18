@@ -8,7 +8,7 @@ Frontend developer
 * 🖥️  See my portfolio at [https://sujeetjaiswara.netlify.app](http://sujeetjaiswara.netlify.app)
 * ✉️  You can contact me at [sujeetjaiswara2012@gmal.com](mailto:sujeetjaiswara2012@gmal.com)
 * 🧠  I'm learning React
-* 🤝  I'm open to collaborating on Angular
+* 🤝  I'm open to collaborating on Angular, Vue3 & Svelte
 * 🛠   Uses Asus tuff gamming F15 laptop, VSCode editor, Slack for calibration, Window 11 OS, Notion app, ChatGPT
 
 <a href="https://www.github.com/sujeetjaiswara" target="_blank" rel="noreferrer"><img
