@@ -5,7 +5,7 @@ Frontend developer
 ------------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [https://sujeetjaiswara.netlify.app](http://sujeetjaiswara.netlify.app)
+* 🖥️  See my portfolio at [https://sujeetjaiswara.vercel.app](https://sujeetjaiswara.vercel.app)
 * ✉️  You can contact me at [sujeetjaiswara2012@gmal.com](mailto:sujeetjaiswara2012@gmal.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Angular, Vue3 & Svelte
