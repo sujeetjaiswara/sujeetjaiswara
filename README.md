@@ -1,9 +1,6 @@
-Sujeet Jaiswara | Crafting Code with Precision and Passion 👨‍💻✨
-================================
+# Sujeet Jaiswara | Crafting Code with Precision and Passion 👨‍💻✨
 
-Frontend developer
-------------------
-
+## Frontend developer
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://sujeetjaiswara.vercel.app](https://sujeetjaiswara.vercel.app)
 * ✉️  You can contact me at [sujeetjaiswara2012@gmal.com](mailto:sujeetjaiswara2012@gmal.com)
