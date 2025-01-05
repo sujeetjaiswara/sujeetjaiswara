@@ -1,4 +1,4 @@
-Hi 👋 My name is Sujeet Jaiswara
+Sujeet Jaiswara | Crafting Code with Precision and Passion 👨‍💻✨
 ================================
 
 Frontend developer
