@@ -1,44 +1,107 @@
 <h1 align="center">Hi 👋, I'm Sujeet Jaiswara</h1>
-<h3 align="center">Frontend Developer | Angular • Svelte • TypeScript</h3>
+<h3 align="center">Senior Angular Developer | Scalable Frontend Architect</h3>
 
 <p align="center">
-  🚀 Crafting scalable web apps with clean architecture & performance in mind
+  🚀 Building high-performance Angular apps using Signals, Standalone APIs & modern architecture
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🌍 Based in India  
-- 🔗 Portfolio: https://sujeetjaiswara.vercel.app  
-- 📫 Email: sujeetjaiswara2012@gmail.com  
-- 🧠 Currently exploring **React & advanced frontend architecture**  
-- 🤝 Open to collaboration on **Angular, Svelte, and modern frontend projects**  
-- ⚡ Focus: Performance, clean code, scalable architecture  
+* 🧑‍💻 Angular-focused developer with strong frontend architecture experience
+
+* 🌍 Based in India
+
+* 🔗 Portfolio: https://sujeetjaiswara.vercel.app
+
+* 📫 Email: [sujeetjaiswara2012@gmail.com](mailto:sujeetjaiswara2012@gmail.com)
+
+* ⚡ Core expertise:
+
+  * Angular 17+ (Signals, Standalone Components)
+  * NgRx Signal Store
+  * Reactive Forms (NonNullableFormBuilder)
+  * Lazy loading & feature-based architecture
+  * Performance optimization & clean code practices
+
+---
+
+## 🧠 Angular Mindset (Production Code Style)
+
+```ts
+import { ChangeDetectionStrategy, Component, inject } from '@angular/core';
+import { FeatureStore } from './data-access/feature.store';
+
+@Component({
+  standalone: true,
+  selector: 'app-feature',
+  template: `
+    @if (data()) {
+      <feature-ui [data]="data()" />
+    }
+  `,
+  changeDetection: ChangeDetectionStrategy.OnPush
+})
+export class FeatureComponent {
+  private readonly store = inject(FeatureStore);
+
+  readonly data = this.store.data; // Signal-based state
+}
+```
+
+✔️ Signal-driven UI
+✔️ Smart/Dumb component separation
+✔️ Reactive Forms
+✔️ Clean architecture
+✔️ No legacy patterns
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🚀 Frontend
+### ⚡ Core
+
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,svelte" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,js" />
 </p>
 
-### 🎨 Styling & UI
+### 🎨 UI & Styling
+
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind,scss" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,scss" />
 </p>
 
 ### ⚙️ Backend & Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,redis,docker" />
 </p>
 
 ### 🧰 Dev Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
 </p>
+
+---
+
+## 🏗️ Featured Projects
+
+### 🔹 HRMS System (Enterprise App)
+
+* Modular Angular architecture
+* Asset & Leave Management
+* Role-based access control
+* NgRx Signal Store for state management
+
+### 🔹 Cron Expression Generator
+
+* Angular-based utility tool
+* Real-time cron parsing
+* Signal-driven UI updates
+
+👉 Add your repo links here (important for recruiters)
 
 ---
 
@@ -54,33 +117,26 @@
 
 ---
 
-## 📈 Activity Graph
+## 🎯 What I Bring
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujeetjaiswara&theme=tokyo-night" />
-</p>
-
----
-
-## 📌 Featured Focus
-
-- ⚡ Angular (Signals, Standalone, NgRx Signal Store)
-- 🧩 Scalable frontend architecture
-- 🚀 Performance optimization
-- 🧠 Clean & maintainable code practices
+* 🚀 Scalable Angular architecture
+* ⚡ High-performance applications
+* 🧠 Strong debugging & problem-solving
+* 📦 Clean, maintainable code
+* 🤝 Team collaboration
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Connect With Me
 
 <p>
   <a href="https://sujeetjaiswara.vercel.app">🌐 Portfolio</a> •
   <a href="mailto:sujeetjaiswara2012@gmail.com">📧 Email</a> •
-  <a href="https://github.com/sujeetjaiswara">🐙 GitHub</a>
+  <a href="https://github.com/sujeetjaiswara">GitHub</a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐️ From <b>Sujeet Jaiswara</b> — Building with precision & passion
+  ⚡ Focused on Angular excellence, not just frontend development
 </p>
