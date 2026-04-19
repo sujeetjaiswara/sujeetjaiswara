@@ -82,15 +82,13 @@ export class FeatureComponent {
 
 ## 🏗️ Featured Projects
 
-### 🔹 HRMS System (Enterprise App)
-
+### HRMS System (Enterprise App)
 * Modular Angular architecture
 * Asset & Leave Management
 * Role-based access control
 * NgRx Signal Store for state management
 
-### 🔹 Cron Expression Generator
-
+### Cron Expression Generator
 * Angular-based utility tool
 * Real-time cron parsing
 * Signal-driven UI updates
