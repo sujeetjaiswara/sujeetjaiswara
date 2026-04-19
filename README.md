@@ -8,17 +8,11 @@
 ---
 
 ## 👨‍💻 About Me
-
 * 🧑‍💻 Angular-focused developer with strong frontend architecture experience
-
 * 🌍 Based in India
-
 * 🔗 Portfolio: https://sujeetjaiswara.vercel.app
-
 * 📫 Email: [sujeetjaiswara2012@gmail.com](mailto:sujeetjaiswara2012@gmail.com)
-
 * ⚡ Core expertise:
-
   * Angular 17+ (Signals, Standalone Components)
   * NgRx Signal Store
   * Reactive Forms (NonNullableFormBuilder)
@@ -118,7 +112,6 @@ export class FeatureComponent {
 ---
 
 ## 🎯 What I Bring
-
 * 🚀 Scalable Angular architecture
 * ⚡ High-performance applications
 * 🧠 Strong debugging & problem-solving
@@ -128,7 +121,6 @@ export class FeatureComponent {
 ---
 
 ## 🤝 Connect With Me
-
 <p>
   <a href="https://sujeetjaiswara.vercel.app">🌐 Portfolio</a> •
   <a href="mailto:sujeetjaiswara2012@gmail.com">📧 Email</a> •
