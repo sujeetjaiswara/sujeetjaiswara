@@ -13,9 +13,10 @@
 * 🔗 Portfolio: https://sujeetjaiswara.vercel.app
 * 📫 Email: [sujeetjaiswara2012@gmail.com](mailto:sujeetjaiswara2012@gmail.com)
 * ⚡ Core expertise:
-  * Angular 17+ (Signals, Standalone Components)
+  * Angular 21+ (Signals, Standalone Components)
   * NgRx Signal Store
   * Reactive Forms (NonNullableFormBuilder)
+  * Signal Form
   * Lazy loading & feature-based architecture
   * Performance optimization & clean code practices
 
